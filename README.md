@@ -1,0 +1,2 @@
+# portugolExercicios
+Exercícios no portugol 
